@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>OrchardApp</name>
+=======
+	<name>ArrayOfObjects</name>
+>>>>>>> a304291f4d617b4e8ad9da5c4df1b1e586ec044f
 	<comment></comment>
 	<projects>
 	</projects>
